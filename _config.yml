@@ -2,3 +2,8 @@ title: iOS Development Blogs
 description: iOS Development blogs hosted on GitHub Pages
 author: Rakesh Khandagale
 theme: minima
+
+# Navigation links
+header_pages:
+  - index.md
+  - firebase_deployments_for_iOS.md
