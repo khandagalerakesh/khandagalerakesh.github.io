@@ -1,5 +1,5 @@
 ---
 layout: home
-title: My Blog
+title: iOS Development Blogs
 ---
 Welcome to my blog!
