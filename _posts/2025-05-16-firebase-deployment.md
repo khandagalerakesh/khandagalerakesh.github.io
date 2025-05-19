@@ -8,3 +8,6 @@ categories: blog
 ### 🎓 Education
 
 - **B.S. in Computer Science** – Example University (2019–2023)
+
+
+`fastlane init`
