@@ -4,6 +4,11 @@ author: Rakesh Khandagale
 theme: minima
 
 # Navigation links
-header_pages:
-  - index.md
-  - firebase_deployments_for_iOS.md
+minima:
+  social_links:
+    - platform: github
+      user_url: https://github.com/khandagalerakesh
+
+  # Add this section for header navigation
+  header_pages:
+    - about.md
