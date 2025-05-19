@@ -16,4 +16,13 @@ categories: blog
 
 `sudo gem install -n /usr/local/bin fastlane —-verbose`
 
+# **FastLane SetUp**
+
+- In terminal, go to your project folder & execute below command to setup fastlane for your project
+
 `fastlane init`
+
+- When prompted, manually setup your project to automate your tasks. Enter the digit against it, we will set up manually. **In this case above enter 4**.
+
+- In the project folder, you’ll see a few new things:
+1. **Gemfile**, which includes the fastlane gem as a project dependency
